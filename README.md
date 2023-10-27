@@ -147,11 +147,8 @@ https://github.com/RotateDisplay/-FPGA-GSV2011-hdmi-/assets/57975357/e9334685-89
 
 
 
-参考附件
-[hdmi_ambilight_v9-20230404.pdf](https://github.com/RotateDisplay/-FPGA-GSV2011-hdmi-/files/13187514/hdmi_ambilight_v9-20230404.pdf) 
-[BOM-.xlsx](https://github.com/RotateDisplay/-FPGA-GSV2011-hdmi-/files/13187516/BOM-.xlsx) 
-[hdmi_ambilight_v9-20230404-位号图.pdf](https://github.com/RotateDisplay/-FPGA-GSV2011-hdmi-/files/13187519/hdmi_ambilight_v9-20230404-.pdf) 
-[Uploading hdmi_ambilight_v9-20230404_CAM.rar…]() 
+参考附件 
+ 
 ![套装图片](https://github.com/RotateDisplay/-FPGA-GSV2011-hdmi-/assets/57975357/2263540b-9c2b-4af0-900d-c591df0b6e74)
 
  
